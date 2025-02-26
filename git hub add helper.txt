@@ -1,0 +1,13 @@
+first name 
+git init
+git add .
+git commit -m 'My message'
+git branch -M main
+git add origing url
+git push -u master or main
+
+updated code 
+push 
+git add .
+git commit -m 'my message'
+git push -u master or main 
